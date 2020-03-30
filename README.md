@@ -47,6 +47,6 @@ pg:psql --app floating-lowlands-68738 < data-postgres.sql
 [Heroku](https://peaceful-wave-53119.herokuapp.com/)
 
 ## Authors
-Student 1: Marko Jovanovic 
-Student 2: Boris Zavis
-Student 3: Milan Kresovic
+- Student 1: Marko Jovanovic 
+- Student 2: Boris Zavis
+- Student 3: Milan Kresovic
